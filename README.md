@@ -9,3 +9,9 @@ Create A Simple HTTP Server And Modify HTML According To The Device Requesting T
 
 
 Using SDK Provided By Seniors Of PESIT.
+
+To Run:
+
+Run Server.py 
+
+Open Browser On Test Device And Go Type In Server IP .
