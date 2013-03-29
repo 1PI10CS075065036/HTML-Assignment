@@ -1,7 +1,7 @@
 '''
 Created on 29-Mar-2013
 
-@author: Sai Gopal
+SDK Provided
 '''
 #Clarification regarding UNknown and No
 #REST should remove order of params
